@@ -2,8 +2,8 @@
 	"version": "1.0.0",
 	"mapUrl": "https://workadventure.github.io/wam-preset-workshop/map.tmj",
     "metadata":{
-        "name": "Workshop",
-        "description": "Suitable for up to 200 users.\n\nThis map is perfect for a big event in which you want to organize workshop sessions for many people. Enjoy the big lobby with a central Help Desk and the cafeteria for a little break!\nSo heat up the coffee machine!",
+        "name": "Webinar",
+        "description": "Suitable for up to 300 users.\n\nCounting with several meeting zones spread out throughout the map, four main big rooms for your conferences and a garden for your chillout sessions.\nThis is the map you are looking for when you have a populated event and need everyone to be able to meet in a simple yet efficient way.",
         "copyright": "CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)",
         "thumbnail": "https://workadventure.github.io/wam-preset-workshop/map.png"
     },
