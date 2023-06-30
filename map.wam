@@ -5,7 +5,7 @@
         "name": "Workshop",
         "description": "Suitable for up to 200 users.\n\nThis map is perfect for a big event in which you want to organize workshop sessions for many people. Enjoy the big lobby with a central Help Desk and the cafeteria for a little break!\nSo heat up the coffee machine!",
         "copyright": "CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)",
-        "thumbnail": "map.png"
+        "thumbnail": "https://workadventure.github.io/wam-preset-workshop/map.png"
     },
 	"entities": {
 		"4867c43f-5b01-4bce-96b7-8c35fd8b7502": {
